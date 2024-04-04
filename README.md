@@ -1,2 +1,2 @@
 # Git Tutorial
-This  Repo is part of the tutorial
+This Repo is part of the tutorial
